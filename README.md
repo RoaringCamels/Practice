@@ -1,2 +1,2 @@
 # Practice
-Collection of Practice Problems
+Collection of Practice Problems to understand the basics
