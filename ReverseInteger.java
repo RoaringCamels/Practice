@@ -10,7 +10,8 @@ public class ReverseInteger {
     /**
      * This method converts the string into a character array by using a built in
      * java String class method toCharArray(). Then, scan the string from the end to
-     * the start and prints it one by one
+     * the start and prints it one by one. If there is a o in the string, it ignores
+     * it.
      * 
      * @param string Input of type String
      */
