@@ -8,7 +8,7 @@ public class FirstUniqueCharacter {
 
     /**
      * This method finds the first non-repeating character in the string and returns
-     * its index
+     * its index by creating a hashmap and then traversing it
      * 
      * @param string a string of type String
      * @return The index of type int of the first unique charter
