@@ -1,6 +1,6 @@
 public class PlusOne {
     public static void main(String[] args) {
-        int nums[] = { 1, 2, 9 };
+        int nums[] = { 1, 4, 2 };
         printStandard(nums);
         calculate(nums, nums.length);
 

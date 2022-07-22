@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 public class FirstUniqueCharacter {
     public static void main(String[] args) {
-        String string = "aabb";
+        String string = "aaaaaaaaab";
         System.out.println(firstUniqueChar(string));
     }
 
